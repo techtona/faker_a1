@@ -4,7 +4,7 @@ require_once 'vendor/autoload.php';
 
 $faker = Faker\Factory::create('id_ID');
 
-$servername = "172.18.18.90";
+$servername = "172.18.43.73";
 $username = "user_ig";
 $password = "password";
 $dbname = "my_instagram";
